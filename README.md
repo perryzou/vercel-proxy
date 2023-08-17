@@ -1,0 +1,1 @@
+本项目是vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google等等。http和https接口、单页面均可代理，在网络环境不好的情况下均可用

@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/----:match/:url*", "destination": ":match/:url*" }
+  ]
+}
